@@ -26,7 +26,7 @@
   SCL ----------------------- A5
   GND ---------------------- GND
 */
-#include <TinyGPS++.h>
+//#include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 
 #include <SPI.h>
